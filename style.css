@@ -35,8 +35,7 @@ button {
     font-family: 'Times New Roman', Times, serif;
 }
 
-
-#confettiebutton {
+#confettieButton {
     background-color: #721248; 
     border: 0.2em; 
     color: #f3eaea; 
@@ -46,7 +45,7 @@ button {
     border-radius: 0.6em; 
 }
 
-#confettiebutton:hover {
+#confettieButton:hover {
     background-color: #d356a4;
     transform: scale(1.05);
 }
