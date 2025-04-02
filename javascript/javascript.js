@@ -14,15 +14,15 @@ const changeShoes = document.getElementById("changeShoes");
 const shoes = ["#", "shoes1", "shoes2", "shoes3"];
 
 // Achtergrond
-const backgroundButton = document.getElementById("backgroundbutton");
+const backgroundButton = document.getElementById("backgroundButton");
 const backgrounds = ["dressbackground", "dressbackground2", "dressbackground3", "dressbackground4"];
 
 // Sounds
 const audio = document.getElementById("sounds");
-const doneButton = document.getElementById("donebutton");
+const doneButton = document.getElementById("doneButton");
 
 // confettie
-const confettiButton = document.getElementById("confettiebutton");
+const confettiButton = document.getElementById("confettieButton");
 const confettiImage = document.getElementById("confettiImage");
 
 
